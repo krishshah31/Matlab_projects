@@ -1,0 +1,14 @@
+rtGetInf.o rtGetInf.o: \
+ C:/Users/Asus/Desktop/MATLAB~2/ITMBS/Manuever_2_ert_rtw/rtGetInf.c \
+ C:/Users/Asus/Desktop/MATLAB~2/ITMBS/Manuever_2_ert_rtw/rtwtypes.h \
+ C:/Users/Asus/Desktop/MATLAB~2/ITMBS/Manuever_2_ert_rtw/rtGetInf.h \
+ C:/Users/Asus/Desktop/MATLAB~2/ITMBS/Manuever_2_ert_rtw/rt_nonfinite.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\lib\gcc\arm-none-linux-gnueabi\4.4.1\include/stddef.h
+
+C:/Users/Asus/Desktop/MATLAB~2/ITMBS/Manuever_2_ert_rtw/rtwtypes.h:
+
+C:/Users/Asus/Desktop/MATLAB~2/ITMBS/Manuever_2_ert_rtw/rtGetInf.h:
+
+C:/Users/Asus/Desktop/MATLAB~2/ITMBS/Manuever_2_ert_rtw/rt_nonfinite.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\lib\gcc\arm-none-linux-gnueabi\4.4.1\include/stddef.h:

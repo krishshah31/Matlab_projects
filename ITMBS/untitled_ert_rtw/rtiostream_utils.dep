@@ -1,0 +1,53 @@
+rtiostream_utils.o rtiostream_utils.o: \
+ E:/MATLAB/toolbox/coder/rtiostream/src/utils/rtiostream_utils.c \
+ E:/MATLAB/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h \
+ C:/Users/Asus/Desktop/MATLAB~2/ITMBS/untitled_ert_rtw/rtwtypes.h \
+ E:/MATLAB/extern/include/tmwtypes.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/limits.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/features.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/bits/predefs.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/sys/cdefs.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/bits/wordsize.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/gnu/stubs.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\lib\gcc\arm-none-linux-gnueabi\4.4.1\include-fixed/limits.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/bits/posix1_lim.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/bits/local_lim.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/linux/limits.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/bits/posix2_lim.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\lib\gcc\arm-none-linux-gnueabi\4.4.1\include/float.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\lib\gcc\arm-none-linux-gnueabi\4.4.1\include/stddef.h \
+ E:/MATLAB/toolbox/coder/rtiostream/src/rtiostream.h
+
+E:/MATLAB/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h:
+
+C:/Users/Asus/Desktop/MATLAB~2/ITMBS/untitled_ert_rtw/rtwtypes.h:
+
+E:/MATLAB/extern/include/tmwtypes.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/limits.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/features.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/bits/predefs.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/sys/cdefs.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/bits/wordsize.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/gnu/stubs.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\lib\gcc\arm-none-linux-gnueabi\4.4.1\include-fixed/limits.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/bits/posix1_lim.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/bits/local_lim.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/linux/limits.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\arm-none-linux-gnueabi\libc\usr\include/bits/posix2_lim.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\lib\gcc\arm-none-linux-gnueabi\4.4.1\include/float.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2023b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\lib\gcc\arm-none-linux-gnueabi\4.4.1\include/stddef.h:
+
+E:/MATLAB/toolbox/coder/rtiostream/src/rtiostream.h:
