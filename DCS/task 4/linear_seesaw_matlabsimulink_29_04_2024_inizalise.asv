@@ -1,0 +1,63 @@
+Jb = 0.5;        %Jb=0.5kg*m^2
+mf = 0.1;           %mf=0.1kg
+h=0.1;            %h=10cm
+g=9.81 ;          %g=9.81m*s^-2
+Jconst=mf*h^2+Jb;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% alpha_compare=out.alpha_compare;
+% alpha_dot_compare=out.alpha_dot_compare;
+% xf_compare=out.xf_compare;
+% xf_dot_compare=out.xf_dot_compare;
+% 
+% %code for ploting and placement of graphs 
+% 
+% figure=nexttile;
+% 
+% plot (alpha_dot_compare)
+% title('alpha dot compare')
+% xlabel('time in seconds')
+% ylabel('angle in radian')
+% legend('alpha dot','alpha dot linear')
+% 
+% figure=nexttile;
+% 
+% plot (alpha_compare)
+% title('alpha compare')
+% xlabel('time in seconds')
+% ylabel('angle in radian')
+% legend('alpha','alpha linear')
+% 
+% figure=nexttile;
+% 
+% plot(xf_compare)
+% plot(xf_dot_compare)
+% title('xf compare')
+% xlabel('time in seconds')
+% ylabel('distance in meters')
+% legend('xf','xf linear')
+% 
+% figure=nexttile;
+% 
+% plot(xf_dot_compare)
+% title('xf dot compare')
+% xlabel('time in seconds')
+% ylabel('distance in meters')
+% legend('xf dot','xf dot linear')

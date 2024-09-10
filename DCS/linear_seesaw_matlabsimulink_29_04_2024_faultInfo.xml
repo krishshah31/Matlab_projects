@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/faultinfo_datamodel/R2021a">
+  <faultinfo.FaultContainerSet type="faultinfo.FaultContainerSet" uuid="3ba5b085-0f56-4f63-a389-1bde12ad4bc3">
+    <conditionals type="faultinfo.conditional.Conditional" uuid="f2113579-1a3a-4f3f-b4f3-bc1b41d0e571">
+      <condition>x == true</condition>
+      <mustBeLogged>false</mustBeLogged>
+      <name>SampleConditional</name>
+      <resyncRefBlkID></resyncRefBlkID>
+      <resyncUUID>00000000-0000-0000-0000-000000000000</resyncUUID>
+      <symbols type="faultinfo.conditional.ExpressionSymbol" uuid="0a5762e8-83c6-4294-bc7e-5e88c0b2d7e6">
+        <expression>true</expression>
+        <name>x</name>
+      </symbols>
+    </conditionals>
+    <isEnabled>false</isEnabled>
+    <lastUpdatedAt>2024-06-10T16:48:41</lastUpdatedAt>
+    <modelName>linear_seesaw_matlabsimulink_29_04_2024</modelName>
+    <modelUUID>993040a1-533a-4c5a-86ae-eb47480db8ae</modelUUID>
+  </faultinfo.FaultContainerSet>
+</MF0>
